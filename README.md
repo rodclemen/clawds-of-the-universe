@@ -17,7 +17,9 @@
   <a href="https://github.com/rodclemen/clawd-clash"><img src="https://img.shields.io/badge/part%20of-Clawd%20Clash-8A2BE2" alt="Part of Clawd Clash"></a>
 </p>
 
-<p align="center"><sub>🎬 The trailer: <a href="promo/clawds-of-the-universe-promo.mp4">promo/clawds-of-the-universe-promo.mp4</a> (1080p, with sound)</sub></p>
+https://github.com/user-attachments/assets/6c5511ba-bc0a-4403-b6aa-c9a50501e095
+
+<p align="center"><sub>🔊 <b>Click the speaker in the player for sound</b>: GitHub starts videos muted. Full 1080p version: <a href="promo/clawds-of-the-universe-promo.mp4">promo/clawds-of-the-universe-promo.mp4</a></sub></p>
 
 > **Clawds of the Universe is a universe of [Clawd Clash](https://github.com/rodclemen/clawd-clash).** Same crew, same fights, more universes to switch to. This page shows off the Clawds of the Universe universe; see [Get it](#get-it) to install.
 
