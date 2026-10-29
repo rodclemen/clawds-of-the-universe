@@ -107,6 +107,10 @@ Run two Claudes and they square off. Every character is Clawd (Claude Code's lit
 
 Clawd Clash opens in a window by default (switch to the desktop from the menu). The whole crew stands in a scene, and every session gets a card: its project, what it's doing right now, your last prompt, its last reply, and its agents in a little tree underneath.
 
+<p align="center">
+  <img src="docs/window-castle-greyskull.png" alt="Window mode at Castle Greyskull: He-Clawd on Claude Code with Teelah and Orkko as agents, against Skeleclawd on Codex" width="760">
+</p>
+
 The scene is set **where the first session's character belongs**: Castle Greyskull for He-Clawd and the Sorceress, the Royal Palace for the royal family, Snake Mountain for Skeleclawd, the Fright Zone for the Horde, the Whispering Woods for the Great Rebellion, Bright Moon for Glimmer, and a small town on Earth for the film's cast.
 
 21 hand-built places, each with its own little animation: green mist curls up out of the chasm under Castle Greyskull; the pool's light ripples on the walls of the Sorceress's chamber; torches flicker in the Royal Palace of Eternos; a cog turns in Man-At-Clawds' workshop; the stone snake's eyes glow on Snake Mountain; fireflies drift in the Vine Jungle; rocks float over the Mystic Mountains; clouds drift past Avion; honey drips in Andreenos; embers rise at Darksmoke; moons orbit Trolla; bubbles rise in Mer-Clawd's undersea kingdom; red eyes blink in the fog of Beast Island; tentacles grab out of the House of Shokoti; smoke belches from the Fright Zone; the crystals twinkle at Bright Moon; Loo-Kee peeks out in the Whispering Woods; a rainbow glows inside the Crystal Castle; the islands bob at Mystacor; snow falls on Castle Chill; and the neon flickers on Earth, where the Cosmic Key's portal now and then opens in an alley.
@@ -126,6 +130,10 @@ When the scene moves somewhere new, it goes the way the show would, and every ch
 <summary><b>All twelve transitions, five moments of each</b></summary>
 <p align="center"><img src="docs/transitions-clawds-of-the-universe.png" alt="The twelve Clawds of the Universe transitions, five moments of each" width="760"></p>
 </details>
+
+<p align="center">
+  <img src="docs/screensaver-clawds-of-the-universe.png" alt="The screen saver in the Royal Palace of Eternos: the sessions' cards over the crew, name tags on everyone" width="900">
+</p>
 
 Clawd Clash also comes with a screen saver: the place at full screen and the crew fighting across its floor, name tags on everyone, a card for each session, and a trip somewhere new every 10 minutes. Pick **Clawds of the Universe** in the screen saver's **Options…** in System Settings.
 
